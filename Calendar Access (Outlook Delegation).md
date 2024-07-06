@@ -1,4 +1,4 @@
-Ticket #1: Calendar Access (Outlook Delegation)
+Calendar Access (Outlook Delegation)
 
 Description:
 Admin assistant started today and needs calendar and contact access to Kevin's calendar.
